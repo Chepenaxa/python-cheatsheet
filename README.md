@@ -1,4 +1,4 @@
-Comprehensive My Python Cheatsheet v2
+Comprehensive My Python Cheatsheet v2.1
 ===============================
 <sup>[Download text file](https://raw.githubusercontent.com/gto76/python-cheatsheet/main/README.md), [Fork me on GitHub](https://github.com/gto76/python-cheatsheet) or [Check out FAQ](https://github.com/gto76/python-cheatsheet/wiki/Frequently-Asked-Questions).
 </sup>
